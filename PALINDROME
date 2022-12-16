@@ -1,0 +1,6 @@
+i=0
+while i<4:
+    word=input("enter word plaindrome")
+    if word==word[::-1] : print(word,"is plaindrome")
+    else: print(word,"is not plaindrome")
+    i += 1
