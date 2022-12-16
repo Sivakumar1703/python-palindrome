@@ -1,1 +1,1 @@
-# python-classojbjects
+PALINDROME
